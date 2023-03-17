@@ -2,7 +2,6 @@
 {
     private static void Main(string[] args)
     {
-
         try
         {
             StreamReader fIn = new(@"C:/Users/DELL/Desktop/hehehe.txt");
